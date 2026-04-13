@@ -20,14 +20,14 @@ It demonstrates:
 
 ##  Features
 
-✅ Personalized user interaction
-✅ ASCII art logo header
-✅ Welcome audio (WAV playback)
-✅ Predefined chatbot responses
-✅ Graceful handling of unknown input
-✅ Structured and colored console UI
-✅ Clean separation of concerns (no monolithic `Program.cs`)
-✅ Continuous Integration with GitHub Actions
+* Personalized user interaction
+* ASCII art logo header
+* Welcome audio (WAV playback)
+* Predefined chatbot responses
+* Graceful handling of unknown input
+* Structured and colored console UI
+* Clean separation of concerns (no monolithic `Program.cs`)
+* Continuous Integration with GitHub Actions
 
 ---
 
