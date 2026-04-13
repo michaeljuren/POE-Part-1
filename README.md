@@ -137,7 +137,6 @@ This project includes a CI pipeline that:
 * ✅ Restores dependencies
 * ✅ Checks code formatting (`dotnet format`)
 * ✅ Builds the application
-* ✅ Runs tests (if added later)
 
 Workflow file:
 
