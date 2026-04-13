@@ -52,7 +52,7 @@ CyberSecurityBot/
 │
 ├── .github/
 │   └── workflows/
-│       └── dotnet-ci.yml
+│       └── manual.yml
 │
 ├── CyberSecurityBot/
 │   ├── Program.cs
