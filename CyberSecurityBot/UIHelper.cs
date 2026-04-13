@@ -8,7 +8,7 @@ namespace CyberSecurityBot
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
 
-            Console.WriteLine("===============================================");
+            Console.WriteLine("==============================================================================================");
             Console.WriteLine(@"
     ______ ____    ____ .______    _______ .______         .______     ______   .___________.
  /      |\   \  /   / |   _  \  |   ____||   _  \        |   _  \   /  __  \  |           |
@@ -18,9 +18,9 @@ namespace CyberSecurityBot
  \______|    |__|     |______/  |_______|| _| `._____|   |______/   \______/      |__|     
                                                                                            
 
-    Cybersecurity Awareness Bot 
+                               Cybersecurity Awareness Bot 
 ");
-            Console.WriteLine("===============================================");
+            Console.WriteLine("==============================================================================================");
 
             Console.ResetColor();
         }

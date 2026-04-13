@@ -4,12 +4,13 @@ namespace CyberSecurityBot
 {
     public static class AudioPlayer
     {
+
         public static void PlayWelcome()
         {
             try
             {
-               SoundPlayer player = new SoundPlayer("welcome.wav");
-                player.PlaySync();
+               SoundPlayer player = new("welcome.wav");
+               player.PlaySync();
             }
             catch
             {
