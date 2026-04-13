@@ -13,3 +13,7 @@ C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-202
 C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.pdb
 C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.genruntimeconfig.cache
 C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\obj\Debug\net10.0\ref\CyberSecurityBot.dll
+C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\miuren\OneDrive - MMI HOLDINGS LTD\Personal Documents\Docs\rosebank-2026\programming-2a\POE-Part_1\CyberSecurityBot\POE-Part-1\CyberSecurityBot\obj\Debug\net10.0\CyberSec.8B1038FD.Up2Date
